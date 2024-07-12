@@ -20,7 +20,6 @@ The project is organized into the following directories and files:
   - `Sigmoid_Exam_Part_2.ipynb` - Notebook for data cleaning and feature engineering.
   - `Sigmoid_Exam_Part_3.ipynb` - Notebook for training and evaluating the Machine Learning models.
 - `Presentation.pdf` - PowerPoint presentation summarizing the project work, insights, and results.
-  - `exam_presentation.pptx` 
 - `README.md` - This file, providing an overview and instructions for the project.
 
 ## Dataset Description
